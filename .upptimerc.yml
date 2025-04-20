@@ -5,14 +5,22 @@ repo: status # The name of this repository
 sites:
   - name: Push Service
     url: https://push.kickern.online/health
-  - name: DTFB
+  - name: DTFB (DE)
     url: https://dtfb.de
-  - name: TFVHH
+  - name: TFVSH (DE)
+    url: https://tfvsh.de
+  - name: TFVHH (DE)
     url: https://kickern-hamburg.de
-  - name: NWTFV
-    url: https://nwtfv.com
-  - name: NTFV
+  - name: NTFV (DE)
     url: https://ntfv.de
+  - name: TFVB (DE)
+    url: https://tfvb.de/
+  - name: NWTFV (DE)
+    url: https://nwtfv.com
+  - name: STFV (DE)
+    url: https://stfv.de
+  - name: NTVB (NL)
+    url: https://tafelvoetbal.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
