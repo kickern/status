@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tfvsh.de.ico",
     "slug": "tfvsh-de",
     "status": "up",
-    "uptime": "87.89%",
+    "uptime": "89.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "87.89%",
-    "uptimeMonth": "87.89%",
-    "uptimeYear": "87.89%",
+    "uptimeWeek": "89.56%",
+    "uptimeMonth": "89.56%",
+    "uptimeYear": "89.56%",
     "time": 1409,
     "timeDay": 1424,
     "timeWeek": 1409,
@@ -97,9 +97,9 @@
     "url": "https://ntfv.de",
     "icon": "https://icons.duckduckgo.com/ip3/ntfv.de.ico",
     "slug": "ntfv-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,7 +108,9 @@
     "timeWeek": 2360,
     "timeMonth": 2360,
     "timeYear": 2360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-25": 0
+    }
   },
   {
     "name": "TFVB (DE)",
