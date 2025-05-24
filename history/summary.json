@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tfvsh.de.ico",
     "slug": "tfvsh-de",
     "status": "up",
-    "uptime": "98.39%",
+    "uptime": "98.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.39%",
+    "uptimeYear": "98.40%",
     "time": 1173,
     "timeDay": 1141,
     "timeWeek": 1153,
@@ -136,9 +136,9 @@
     "url": "https://nwtfv.com",
     "icon": "https://icons.duckduckgo.com/ip3/nwtfv.com.ico",
     "slug": "nwtfv-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -147,7 +147,9 @@
     "timeWeek": 1561,
     "timeMonth": 1432,
     "timeYear": 1360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-24": 0
+    }
   },
   {
     "name": "STFV (DE)",
