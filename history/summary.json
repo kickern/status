@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tfvsh.de.ico",
     "slug": "tfvsh-de",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.68%",
     "time": 1155,
     "timeDay": 1233,
     "timeWeek": 1056,
@@ -145,7 +145,7 @@
     "uptimeYear": "100.00%",
     "time": 1358,
     "timeDay": 1535,
-    "timeWeek": 1347,
+    "timeWeek": 1344,
     "timeMonth": 1364,
     "timeYear": 1358,
     "dailyMinutesDown": {}
@@ -173,9 +173,9 @@
     "url": "https://tafelvoetbal.nl",
     "icon": "https://icons.duckduckgo.com/ip3/tafelvoetbal.nl.ico",
     "slug": "ntvb-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -185,6 +185,7 @@
     "timeMonth": 1723,
     "timeYear": 1868,
     "dailyMinutesDown": {
+      "2025-05-31": 0,
       "2025-05-19": 18
     }
   }
