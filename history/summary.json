@@ -137,9 +137,9 @@
     "url": "https://nwtfv.com",
     "icon": "https://icons.duckduckgo.com/ip3/nwtfv.com.ico",
     "slug": "nwtfv-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,7 +148,9 @@
     "timeWeek": 2036,
     "timeMonth": 1530,
     "timeYear": 1452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-10": 0
+    }
   },
   {
     "name": "STFV (DE)",
