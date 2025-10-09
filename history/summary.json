@@ -44,19 +44,19 @@
     "url": "https://dtfb.de",
     "icon": "https://icons.duckduckgo.com/ip3/dtfb.de.ico",
     "slug": "dtfb-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.95%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 1218,
-    "timeDay": 882,
-    "timeWeek": 1104,
-    "timeMonth": 1162,
+    "timeDay": 979,
+    "timeWeek": 1121,
+    "timeMonth": 1165,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2025-10-09": 29
+      "2025-10-09": 36
     }
   },
   {
