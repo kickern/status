@@ -1,7 +1,7 @@
 url: https://ntfv.de
-status: up
-code: 200
-responseTime: 2216
-lastUpdated: 2025-10-21T23:10:22.491Z
+status: down
+code: 502
+responseTime: 1007
+lastUpdated: 2025-10-22T14:10:41.985Z
 startTime: 2025-04-20T14:03:01.720Z
 generator: Upptime <https://github.com/upptime/upptime>
