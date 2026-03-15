@@ -122,7 +122,7 @@
     "uptimeYear": "99.24%",
     "time": 2361,
     "timeDay": 1721,
-    "timeWeek": 2150,
+    "timeWeek": 2079,
     "timeMonth": 2118,
     "timeYear": 2361,
     "dailyMinutesDown": {
@@ -281,9 +281,9 @@
     "url": "https://tafelvoetbal.nl",
     "icon": "https://icons.duckduckgo.com/ip3/tafelvoetbal.nl.ico",
     "slug": "ntvb-nl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.56%",
@@ -293,6 +293,7 @@
     "timeMonth": 2440,
     "timeYear": 2487,
     "dailyMinutesDown": {
+      "2026-03-15": 0,
       "2026-02-26": 185,
       "2026-02-22": 54,
       "2026-01-16": 32,
